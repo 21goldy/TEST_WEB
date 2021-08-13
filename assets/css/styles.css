@@ -1533,4 +1533,13 @@ License Terms
 
 .myDIV:hover + .hide {
   display: block;
+  margin-left:400px;
 }
+
+/*------------------------------test-------------------------------*/
+
+.myDIV2:hover + .hide {
+  display: block;
+  margin-left:-600px;
+}
+
