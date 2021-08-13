@@ -1,4 +1,4 @@
-# ---------------------------------------------------------- COLLEGE PICK ------------------------------------------------------------------------------- #
+# -------------------------------------------- COLLEGE PICK ---------------------------------------------- #
 
 Many students face problems in searching for an ideal college for them after completing high school.
 With the help of this very website, it will make it possible for one to search their ideal college (Private college) without scratching their heads.
